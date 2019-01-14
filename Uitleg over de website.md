@@ -1,4 +1,4 @@
-#CSS Responsive Grid
+# CSS Responsive Grid
 
 De website is gemaakt voor: 
 - laptop/computer
